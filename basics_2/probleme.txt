@@ -1,0 +1,5 @@
+1. functi care realizeaza manimul
+2. o functie care calzuleaza cel mai mai divizor al unui numar avem parametrul x si dupa returnam rezultatul
+3. o functie care calzuleaza cel mai mai divizor al unui numar dar fara a returna valoarea
+4. o fucntie care returneaza suma cifrelor unui numar f(1234) -> 10 f(453) -> 12
+5. o functie care realizeaza suma primelor 4 numere naturale f (3) -> 1+2+3 
