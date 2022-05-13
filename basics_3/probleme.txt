@@ -1,0 +1,13 @@
+1. functi care realizeaza nimimul
+2. o functie care calzuleaza cel mai mare divizor al unui numar avem parametrul x si dupa returnam rezultatul
+3. o functie care calzuleaza cel mai mai divizor al unui numar dar fara a returna valoarea
+4. o fucntie care returneaza suma cifrelor unui numar f(1234) -> 10 f(453) -> 12
+5. o functie care realizeaza suma primelor n numere naturale f (3) -> 1+2+3 
+
+
+6. media aritmetica a 5 numere naturale citite de la tasatura
+
+7. media aritmetica a n numere naturale citite de la tasatura
+8. media aritmetica a unui set de numere diferite de 0
+9. maxinul dintr-ul set de numere naturale diferite de 0
+10. lungimea celui mai mare sir de numere consecutive
