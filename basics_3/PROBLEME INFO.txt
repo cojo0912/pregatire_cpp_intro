@@ -1,0 +1,15 @@
+Primele N numere ale lui fibonacci.
+Primele N numere impare ale lui fibonacci.
+Al N-ulei numar al lui fibonacci.
+Să se scrie un program care citește numărul natural n și determină suma S=1*2+2*3+3*4...+n*(n+1).
+Se dau n numere naturale. Pentru fiecare numar x, calculati 1+(1+2)+(1+2+3)+(1+2+3+4)+...+(1+2+3+...x).
+Numerele naturale nenule se scriu pe linii într-un triunghi de forma de mai jos:
+	1	
+	2 3
+	4 5 6 		
+	7 8 9 10
+	...
+Se citește un număr natural nenul n și apoi se citesc n numere naturale. Calculați suma dintre valoarea minimă și valoarea maximă.
+Să se scrie un program care citește un șir de n numere naturale şi determină numărul din șir care are prima cifră minimă.
+Să se scrie un program care citește un șir de n numere naturale şi determină valoarea maximă din șir și de câte ori apare.
+Să se scrie un program care citește un șir de n numere naturale şi determină cele mai mari două numere din şir.
